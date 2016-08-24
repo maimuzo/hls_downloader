@@ -7,6 +7,6 @@ Usage:
 example:
 	$ python hls_downloader.py "http://example.com/path/to/movie.m3u8" movie.ts
 	
-Test by Python 2.7 only
-
+* Test by Python 2.7 only
+* Only usable on MacOSX and Linux. because this uses shell command in script.
 
